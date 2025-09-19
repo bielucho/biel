@@ -4,9 +4,9 @@
 ---
 
 ### 2. Dadas personales 
-**Nombre**:Biel Bermejo
-**Ubicacion**:Barcelona, España
-**Email**: bielbermejo@gmail.com
+-**Nombre**:Biel Bermejo
+-**Ubicacion**:Barcelona, España
+-**Email**: bielbermejo@gmail.com
 
 ---
 
