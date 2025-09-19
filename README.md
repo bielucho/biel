@@ -30,4 +30,4 @@
 
 
 ### 5. Experiència laboral 
-Ingeniiero de ordenadores 
+**Ingeniero de ordenadores**
