@@ -23,7 +23,7 @@
    El Puig Castellar (2014-2017)
    *Expediente excelente*
 
-2. **Master en Programaciones software**
+2. **Master en Desarrollo de software**
    Universidad de Barcelona (2017-2020)
 
 --- 
@@ -31,3 +31,4 @@
 
 ### 5. Experiència laboral 
 **Ingeniero de ordenadores**
+
