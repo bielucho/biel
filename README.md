@@ -1,4 +1,4 @@
-# Introduccion
+### 1. Introducción
 > " soy una persona que desde pequeño le ha gustado el mundo de la informatica, me gustaria aprender desarrollo de software y poder compartir grandes cosas."
 
 ---
@@ -11,8 +11,8 @@
 ---
 
 ### 3. Aficiones y intereses
-- Programacion
-- Deportes
+- Ciclismo
+- Programaciones
 - Peliculas
 - Videojuegos
 
@@ -28,7 +28,44 @@
 
 --- 
 
-
 ### 5. Experiència laboral 
-**Ingeniero de ordenadores**
 
+- **Ingeniero de ordenadores**
+Empresa Nvidia (2021-2024)
+*Desarrollador software*
+
+- **Diseñador de paginas web**
+  Empresa: PYME digital (2024-Actualidad)
+  *Diseñar paginas web*
+
+--- 
+
+### 6. Proyectos destacados
+
+- **Bloc personal**:  
+  Un espacio donde comparto curiosidades de ciclismo.  
+  Enlace: [www.EntrePedales.com](http://www.EntrePedales.com)
+
+- **Aplicacion de compra y venta de electrodomesticos**
+Una aplicacion desarrollada con `Wordpress`
+Enlace: (https://www.ElectroVenta.com)
+
+---
+
+### 7. Habilidades
+
+- **Tecnicas**: JavaScript, Java, HTML/CSS, Kotlin, .NET.
+- **Soft skills**: Comunicación Eficaz, Resiliencia, Pensamiento critico y eficaz.
+
+---
+
+### 8. Redes sociales
+
+-Linkedin: [linkedin.com/in/BBermejo](https://www.linkedin.com/in/BBermejo) 
+-Instagram: [Instagram.com/in/MacaPaca](https://www.instagram.com/MacaPaca)
+- GitHub: [github.com/bielucho](https://github.com/bielucho)
+- Twitter: [@MacaPaca](https://twitter.com/MacaPaca)
+
+---
+
+### 9. Fotografia
