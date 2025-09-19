@@ -61,8 +61,8 @@ Enlace: (https://www.ElectroVenta.com)
 
 ### 8. Redes sociales
 
--Linkedin: [linkedin.com/in/BBermejo](https://www.linkedin.com/in/BBermejo) 
--Instagram: [Instagram.com/in/MacaPaca](https://www.instagram.com/MacaPaca)
+- Linkedin: [linkedin.com/in/BBermejo](https://www.linkedin.com/in/BBermejo) 
+- Instagram: [Instagram.com/in/MacaPaca](https://www.instagram.com/MacaPaca)
 - GitHub: [github.com/bielucho](https://github.com/bielucho)
 - Twitter: [@MacaPaca](https://twitter.com/MacaPaca)
 
