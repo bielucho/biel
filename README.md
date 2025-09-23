@@ -74,16 +74,15 @@ Empresa Nvidia (2021-2024)
 
 ---
 
-### 10. Enllaços addicionals
+### 10. Enlaces adicionales
 
-- **Portfoli personal**: [Bbermejo.com](http://www.Bbermejo.com)  
+- **Portfoli personal**: [Bbermejo.com](https://www.Bbermejo.com)  
 - **YouTube**: [Canal de Consejos](https://www.youtube.com/user/MacaPaca)
 
 ---
 
-### Tasques pendents
-Utilitza una llista de tasques per indicar què vols millorar o afegir a la teva pàgina personal:
+### Tareas pendientes
 
-- [ ] Afegir una imatge representativa  
-- [ ] Millorar la descripció dels projectes  
-- [x] Incloure testimonis o recomanacions  
+- [ ] Agregar una imagen representativa.  
+- [ ] Mejorar la descripcion de los proyectos.
+- [x] Incluir testimonios y recomndaciones.
