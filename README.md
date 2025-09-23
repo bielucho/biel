@@ -47,7 +47,7 @@ Empresa Nvidia (2021-2024)
   Enlace: [www.EntrePedales.com](http://www.EntrePedales.com)
 
 - **Aplicacion de compra y venta de electrodomesticos**
-Una aplicacion desarrollada con `Wordpress`
+Una aplicacion desarrollada con `Wordpress`.
 Enlace: (https://www.ElectroVenta.com)
 
 ---
