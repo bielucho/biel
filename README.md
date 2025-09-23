@@ -61,7 +61,7 @@ Empresa: Nvidia (2021-2024)
 
 ### 8. Redes sociales
 
-- Linkedin: [linkedin.com/in/BBermejo](https://www.linkedin.com/in/BBermejo)
+- Linkedin: [linkedin.com/in/BBermejo](https://www.linkedin.com/in/Bbermejo)
 - Instagram: [Instagram.com/in/MacaPaca](https://www.instagram.com/MacaPaca)
 - GitHub: [github.com/bielucho](https://github.com/bielucho)
 - Twitter: [@MacaPaca](https://twitter.com/MacaPaca)
