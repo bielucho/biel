@@ -70,5 +70,5 @@ Empresa Nvidia (2021-2024)
 
 ### 9. Fotografia
 
-![Paisaje de ibon en las montañas](<img width="213" height="148" alt="image" src="https://github.com/user-attachments/assets/6bbd126d-4acc-485e-a449-5d2bc698fce1" />
+[Paisaje de ibon en las montañas](<img width="213" height="148" alt="image" src="https://github.com/user-attachments/assets/6bbd126d-4acc-485e-a449-5d2bc698fce1" />
 )
