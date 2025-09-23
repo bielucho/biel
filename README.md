@@ -48,7 +48,7 @@ Empresa Nvidia (2021-2024)
 
 - **Aplicacion de compra y venta de electrodomesticos**
 Una aplicacion desarrollada con `Wordpress`
-- Enlace: (https://www.ElectroVenta.com)
+Enlace: (https://www.ElectroVenta.com)
 
 ---
 
