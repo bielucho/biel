@@ -70,4 +70,4 @@ Empresa Nvidia (2021-2024)
 
 ### 9. Fotografia
 
-![<img width="321" height="157" alt="image" src="https://github.com/user-attachments/assets/f615303a-fe99-4d16-afad-e755a2227e91" />](https://www.google.com/imgres?q=carretera%20con%20bicicss&imgurl=https%3A%2F%2Fwww.lavanguardia.com%2Ffiles%2Farticle_main_microformat%2Fuploads%2F2019%2F08%2F12%2F5f16049f94d5a.jpeg&imgrefurl=https%3A%2F%2Fwww.lavanguardia.com%2Fmotor%2Factualidad%2F20190813%2F464002931754%2Fciclismo-carretera-normas-recomendaciones-bicicleta-seguridad.html&docid=LN1BjSNs3FuTZM&tbnid=ILpYV8TTF6WqmM&vet=12ahUKEwirsOqzsu6PAxWp9rsIHXbmCv4QM3oECBUQAA..i&w=976&h=477&hcb=2&ved=2ahUKEwirsOqzsu6PAxWp9rsIHXbmCv4QM3oECBUQAA
+![ciclismo de carretera](https://www.serviciositv.es/blog/consejos/ciclistas-en-carreteras)  
