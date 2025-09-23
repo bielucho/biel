@@ -72,3 +72,18 @@ Empresa Nvidia (2021-2024)
 
 ![Paisaje de ibon en las montañas](https://github.com/user-attachments/assets/903860b6-f29d-473c-8433-e040685a0a8b)
 
+---
+
+### 10. Enllaços addicionals
+
+- **Portfoli personal**: [Bbermejo.com](http://www.Bbermejo.com)  
+- **YouTube**: [Canal de Consejos](https://www.youtube.com/user/MacaPaca)
+
+---
+
+### Tasques pendents
+Utilitza una llista de tasques per indicar què vols millorar o afegir a la teva pàgina personal:
+
+- [ ] Afegir una imatge representativa  
+- [ ] Millorar la descripció dels projectes  
+- [x] Incloure testimonis o recomanacions  
