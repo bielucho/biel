@@ -69,3 +69,5 @@ Empresa Nvidia (2021-2024)
 ---
 
 ### 9. Fotografia
+
+![<img width="321" height="157" alt="image" src="https://github.com/user-attachments/assets/f615303a-fe99-4d16-afad-e755a2227e91" />]
