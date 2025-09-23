@@ -76,7 +76,7 @@ Empresa Nvidia (2021-2024)
 
 ### 10. Enlaces adicionales
 
-- **Portfoli personal**: [Bbermejo.com](https://www.Bbermejo.com)  
+- **Portfolio personal**: [Bbermejo.com](https://www.Bbermejo.com)  
 - **YouTube**: [Canal de Consejos](https://www.youtube.com/user/MacaPaca)
 
 ---
@@ -85,4 +85,4 @@ Empresa Nvidia (2021-2024)
 
 - [ ] Agregar una imagen representativa.  
 - [ ] Mejorar la descripcion de los proyectos.
-- [x] Incluir testimonios y recomndaciones.
+- [x] Incluir testimonios y recomendaciones.
