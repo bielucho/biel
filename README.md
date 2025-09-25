@@ -81,6 +81,8 @@ Empresa: Nvidia (2021-2024)
 - **Portfolio personal**: [Bbermejo.com](https://www.Bbermejo.com)  
 - **YouTube**: [Canal de Consejos](https://www.youtube.com/user/MacaPaca)
 
+
+
 ---
 
 ### Tareas pendientes
